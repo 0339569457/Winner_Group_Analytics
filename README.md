@@ -168,10 +168,6 @@ sequenceDiagram
 - **6.Docs/**: Ảnh kiến trúc, dataflow, lineage, ERD và ghi chú.
 - **SQL/**: Quyền và vai trò (RBAC) cho môi trường dữ liệu.
 
-## Bảo mật & Quyền truy cập (RBAC)
-
-- Tham khảo `SQL/Guide_RBAC.sql` và `SQL/RBAC.sql` để cấp quyền phù hợp theo vai trò (reader/analyst/etl).
-
 ## Đóng góp
 
 Đóng góp thông qua Pull Request:
